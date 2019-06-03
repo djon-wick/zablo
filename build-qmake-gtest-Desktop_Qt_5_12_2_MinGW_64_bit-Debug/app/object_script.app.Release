@@ -1,0 +1,11 @@
+release/editor.o
+release/load.o
+release/m.o
+release/plb.o
+release/rh.o
+release/save.o
+release/show.o
+release/append_line.o
+release/create_text.o
+release/process_forward.o
+release/remove_all.o

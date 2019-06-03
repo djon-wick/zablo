@@ -1,0 +1,13 @@
+release/gtest-all.o
+release/gmock-all.o
+release/main.o
+release/load.o
+release/save.o
+release/process_forward.o
+release/create_text.o
+release/remove_all.o
+release/show.o
+release/rh.o
+release/plb.o
+release/m.o
+release/append_line.o
