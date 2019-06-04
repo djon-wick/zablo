@@ -88,10 +88,12 @@ int main()
 
             if ((arg1 = strtok(NULL, " \n")) == NULL) {
                 fprintf(stderr, "Usage: Not enough arguments \n");
+		    return;
             }
 
             if ((arg2 = strtok(NULL, " \n")) == NULL) {
                 fprintf(stderr, "Usage: Not enough arguments \n");
+		    return;
             } else
                 m(txt, atoi(arg1), atoi(arg2));
 
